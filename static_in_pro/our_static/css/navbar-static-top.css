@@ -1,0 +1,17 @@
+body {
+  min-height: 1000px;
+}
+
+.navbar-static-top {
+  margin-bottom: 19px;
+}
+.text-allign {
+   text-align: center;
+}
+
+.abcd{
+    color: blue;
+    margin-top:5px;
+    padding: 10px;
+
+}
